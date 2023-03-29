@@ -1,0 +1,17 @@
+Bacterial Species,Strain Number,Product,Origin,Isolation,Source,Antibiotic ,Susceptibility
+Lactobacillus acidophilus,ATCC 314,Probiotic capsule,Human feces,Selective agar,Microbiological Laboratory,Ampicillin,Susceptible
+Lactobacillus acidophilus,ATCC 314,Probiotic capsule,Human feces,Selective agar,Microbiological Laboratory,Streptomycin,Susceptible
+Bifidobacterium bifidum,ATCC 15696,Probiotic capsule,Human feces,Selective agar,Microbiological Laboratory,Ampicillin,Resistant
+Bifidobacterium bifidum,ATCC 15697,Probiotic capsule,Human feces,Selective agar,Microbiological Laboratory,Streptomycin,Susceptible
+Lactococcus lactis,ATCC 19435,Yogurt,Milk,Direct plating,Dairy Processing plant,Chloramphenicol,Susceptible
+Lactococcus lactis,ATCC 19436,Yogurt,Milk,Direct plating,Dairy Processing plant,Erythromycin,Resistant
+Streptococcus thermophilus,ATCC 19258,Yogurt,Milk,Direct plating,Dairy Processing plant,Chloramphenicol,Resistant
+Streptococcus thermophilus,ATCC 19258,Yogurt,Milk,Direct plating,Dairy Processing plant,Erythromycin,Susceptible
+Lactobacillus reuteri,DSM 20016,Probiotic capsule,Pig intestine,Selective agar,Microbiological Laboratory,Ampicillin,Susceptible
+Lactobacillus reuteri,DSM 20016,Probiotic capsule,Pig intestine,Selective agar,Microbiological Laboratory,Streptomycin,Resistant
+Lactobacillus rhamnosus,GG,Probiotic capsule,Human feces,Selective agar,Microbiological Laboratory,Ampicillin,Susceptible
+Lactobacillus rhamnosus,GG,Probiotic capsule,Human feces,Selective agar,Microbiological Laboratory,Streptomycin,Susceptible
+Lactobacillus plantarum,ST 16/SU 2/IR/7,Probiotic capsule,Human feces,Selective agar,Microbiological Laboratory,Ampicillin,Susceptible
+Lactobacillus plantarum,ST 16/SU 2/IR/8,Probiotic capsule,Human feces,Selective agar,Microbiological Laboratory,Streptomycin,Susceptible
+Bifidobacterium infantis,ATCC 15697,Probiotic capsule,Human feces,Selective agar,Microbiological Laboratory,Ampicillin,Resistant
+Bifidobacterium infantis,ATCC 15698,Probiotic capsule,Human feces,Selective agar,Microbiological Laboratory,Streptomycin,Resistant
